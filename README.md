@@ -2,10 +2,10 @@
 planning
 
 Part I  
-1)gather technologies and methods   
-2)experiement with technologies and methods  
-3)produce working applications of the technologies  
-4)report  
+1)Gather technologies and methods   
+2)Experiement with technologies and methods  
+3)Produce working applications of the technologies  
+4)Report  
   
 Part II  
-1)branch off into experiements 
+1)Branch off into experiements 
