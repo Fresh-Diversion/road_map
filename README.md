@@ -8,4 +8,7 @@ Part I
 4)Report  
   
 Part II  
-1)Branch off into experiements 
+1)Branch off into experiements  
+  a)Emotion detection  
+  b)Deep fake chatbot  
+    https://www.theverge.com/a/luka-artificial-intelligence-memorial-roman-mazurenko-bot
