@@ -7,5 +7,5 @@ Part I
 3)produce working applications of the technologies  
 4)report  
   
-Part II. 
+Part II  
 1)branch off into experiements 
