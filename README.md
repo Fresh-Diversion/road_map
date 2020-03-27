@@ -17,5 +17,5 @@ Part II
 https://en.wikipedia.org/wiki/Need
 
 Project Ideas:  
-Todd - AI Monitored streetlamps
+Todd - AI Monitored streetlamps  
 Todd - Traffic monitoring w/deep learning
