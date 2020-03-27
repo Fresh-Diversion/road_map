@@ -13,3 +13,5 @@ Part II
   a)Emotion detection  
   b)Deep fake chatbot  
     https://www.theverge.com/a/luka-artificial-intelligence-memorial-roman-mazurenko-bot
+
+https://en.wikipedia.org/wiki/Need
