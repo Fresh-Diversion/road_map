@@ -15,3 +15,7 @@ Part II
     https://www.theverge.com/a/luka-artificial-intelligence-memorial-roman-mazurenko-bot
 
 https://en.wikipedia.org/wiki/Need
+
+Project Ideas:  
+Todd - AI Monitored streetlamps
+Todd - Traffic monitoring w/deep learning
