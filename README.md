@@ -19,3 +19,8 @@ https://en.wikipedia.org/wiki/Need
 Project Ideas:  
 Todd - AI Monitored streetlamps  
 Todd - Traffic monitoring w/deep learning
+
+Dany - "Kindness to self"
+    1. Ask people to say a message of kindness or to someone having hard time -> 
+    2. Detect their faces meanwhile -> 
+    3. Show video of their face saying that word (produced by deep fake tech!), looking right back to the person :)
