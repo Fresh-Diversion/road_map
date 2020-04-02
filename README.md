@@ -21,6 +21,6 @@ Todd - AI Monitored streetlamps
 Todd - Traffic monitoring w/deep learning
 
 Dany - "Kindness to self"
-    1. Ask people to say a message of kindness or to someone having hard time -> 
-    2. Detect their faces meanwhile -> 
-    3. Show video of their face saying that word (produced by deep fake tech!), looking right back to the person :)
+    1. Let people approach the monitor which displays the message "record your voice, saying a message of kindness or an encouragement for someone having hard time"
+    2. Detect their faces meanwhile (to display later on) -> 
+    3. Show video of their face saying that phrase, (produced by deep fake tech!) looking right back to the person :) = to themselves
