@@ -21,6 +21,7 @@ Todd - AI Monitored streetlamps
 Todd - Traffic monitoring w/deep learning
 
 Dany - "Kindness to self"
+    
     1. Let people approach the monitor which displays the message 
     "record your voice, saying a message of kindness or an encouragement for someone having hard time"
     
