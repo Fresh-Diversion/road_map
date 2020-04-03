@@ -28,3 +28,14 @@ Dany - "Kindness to self"
     2. Detect their faces meanwhile (to display later on) -> 
     
     3. Show video of their face saying that phrase, (produced by deep fake tech!) looking right back to the person :) = to themselves
+
+Wonjun - Object Detection + OCR(text to voice, translation of text to voice) for Blind People
+
+    Goal: to be able to identify objects, and writings on the objects without the need of touching them, or without the assistance of another person.
+    
+    1. Potential Use: Grocery Store. Object Detected: "Cereal", Text Detected: "Ingredients in (English)", translate it to other languages if the user wants
+    
+    2. On the streets? I think it would be dangerous at this point, but could potentially be useful for reading street signs, geological locations, and etc...
+    
+    
+    
